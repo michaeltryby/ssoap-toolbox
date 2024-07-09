@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/03/10 16:11:09.064.pas,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\CAChooseAnalyses.pas=</Transaction>
+    <Transaction>2011/03/10 16:11:09.064.dfm,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\CAChooseAnalyses.dfm=</Transaction>
+    <Transaction>2011/03/15 11:07:25.816.pas,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\analysismanager.pas=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\CAmanager.pas</Transaction>
+    <Transaction>2011/03/15 11:07:25.816.dfm,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\analysismanager.dfm=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\CAmanager.dfm</Transaction>
+    <Transaction>2011/03/15 11:09:10.460.pas,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\analysismanager.pas=</Transaction>
+    <Transaction>2011/03/15 11:09:10.460.dfm,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\analysismanager.dfm=</Transaction>
+    <Transaction>2011/03/23 15:09:04.113.pas,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\Unit3.pas=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\CALinearRegressionAnalysis.pas</Transaction>
+    <Transaction>2011/03/23 15:09:04.113.dfm,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\Unit3.dfm=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\CALinearRegressionAnalysis.dfm</Transaction>
+    <Transaction>2011/03/23 15:57:21.256.pas,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\Unit3.pas=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\chooseCALinearRegression.pas</Transaction>
+    <Transaction>2011/03/23 15:57:21.256.dfm,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\Unit3.dfm=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\chooseCALinearRegression.dfm</Transaction>
+    <Transaction>2011/03/29 10:34:44.515.pas,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\Unit3.pas=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\frmCAAnalysisAnalyzer.pas</Transaction>
+    <Transaction>2011/03/29 10:34:44.546.dfm,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\Unit3.dfm=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\frmCAAnalysisAnalyzer.dfm</Transaction>
+    <Transaction>2011/03/30 14:30:38.498.pas,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\Unit3.pas=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\EventStatGetter.pas</Transaction>
+    <Transaction>2011/04/04 10:51:30.990.pas,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\Unit3.pas=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\CAAnalysisChooser.pas</Transaction>
+    <Transaction>2011/04/04 10:51:30.990.dfm,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\Unit3.dfm=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\CAAnalysisChooser.dfm</Transaction>
+    <Transaction>2011/04/04 11:24:50.824.pas,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\Unit3.pas=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\CARDIIRankingGraph.pas</Transaction>
+    <Transaction>2011/04/04 11:24:50.824.dfm,C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\Unit3.dfm=C:\applic\SSOAP\RandD_2011\SSOAP_Pre-Post\CARDIIRankingGraph.dfm</Transaction>
+    <Transaction>2012/04/19 14:09:08.392.pas,C:\applic\SSOAP\RandD_2012\source version 1.1\Unit3.pas=C:\applic\SSOAP\RandD_2012\source version 1.1\RDIIRankingStatGetterUnit.pas</Transaction>
+    <Transaction>2012/06/27 09:01:50.120.pas,c:\Projects\SSOAP\source version 2A\chooseLinearRegressionMethod.pas=</Transaction>
+    <Transaction>2012/06/27 09:01:50.120.dfm,c:\Projects\SSOAP\source version 2A\chooseLinearRegressionMethod.dfm=</Transaction>
+    <Transaction>2012/06/27 09:18:37.326.pas,c:\Projects\SSOAP\source version 2A\about.pas=</Transaction>
+    <Transaction>2012/06/27 09:18:37.326.dfm,c:\Projects\SSOAP\source version 2A\about.dfm=</Transaction>
+    <Transaction>2012/06/27 09:22:38.981.pas,c:\Projects\SSOAP\source version 2A\Dabout.pas=c:\Projects\SSOAP\source version 2A\about.pas</Transaction>
+    <Transaction>2012/06/27 09:22:38.981.dfm,c:\Projects\SSOAP\source version 2A\Dabout.dfm=c:\Projects\SSOAP\source version 2A\about.dfm</Transaction>
+    <Transaction>2012/06/27 09:48:43.662.pas,c:\Projects\SSOAP\source version 2A\CARDIIRankingGraph.pas=</Transaction>
+    <Transaction>2012/06/27 09:48:43.662.dfm,c:\Projects\SSOAP\source version 2A\CARDIIRankingGraph.dfm=</Transaction>
+    <Transaction>2012/06/27 10:27:40.493.pas,c:\Projects\SSOAP\source version 2A\CAAnalysisChooser.pas=</Transaction>
+    <Transaction>2012/06/27 10:27:40.493.dfm,c:\Projects\SSOAP\source version 2A\CAAnalysisChooser.dfm=</Transaction>
+    <Transaction>2012/11/16 09:42:06.643.pas,C:\applic\SSOAP\RandD_2012\source version 2A\feedbackTesting.pas=</Transaction>
+    <Transaction>2012/11/16 09:42:06.659.dfm,C:\applic\SSOAP\RandD_2012\source version 2A\feedbackTesting.dfm=</Transaction>
+    <Transaction>2012/11/16 09:43:48.425.pas,C:\applic\SSOAP\RandD_2012\source version 2A\feedbackform.pas=</Transaction>
+    <Transaction>2012/11/16 09:43:48.425.dfm,C:\applic\SSOAP\RandD_2012\source version 2A\feedbackform.dfm=</Transaction>
+    <Transaction>2012/11/16 09:45:33.207.pas,C:\applic\SSOAP\RandD_2012\source version 2A\FeedBackCommentForm.pas=</Transaction>
+    <Transaction>2012/11/16 09:45:33.207.dfm,C:\applic\SSOAP\RandD_2012\source version 2A\FeedBackCommentForm.dfm=</Transaction>
+    <Transaction>2012/11/16 09:45:37.285.pas,C:\applic\SSOAP\RandD_2012\source version 2A\FeedbackUsability.pas=</Transaction>
+    <Transaction>2012/11/16 09:45:37.285.dfm,C:\applic\SSOAP\RandD_2012\source version 2A\FeedbackUsability.dfm=</Transaction>
+    <Transaction>2012/11/16 09:46:24.598.pas,C:\applic\SSOAP\RandD_2012\source version 2A\FeedbackEntryFrame.pas=</Transaction>
+    <Transaction>2012/11/16 09:46:24.598.dfm,C:\applic\SSOAP\RandD_2012\source version 2A\FeedbackEntryFrame.dfm=</Transaction>
+    <Transaction>2012/11/16 10:09:26.568.PAS,C:\applic\SSOAP\RandD_2012\source version 2A\mychart.PAS=</Transaction>
+    <Transaction>2012/11/16 14:40:56.485.pas,C:\applic\SSOAP\RandD_2012\source version 2A\MenuItemForm.pas=</Transaction>
+    <Transaction>2012/11/16 14:40:56.485.dfm,C:\applic\SSOAP\RandD_2012\source version 2A\MenuItemForm.dfm=</Transaction>
+    <Transaction>2012/11/16 14:46:23.547.pas,C:\applic\SSOAP\RandD_2012\source version 2A\InfoForm.pas=</Transaction>
+    <Transaction>2012/11/16 14:46:23.547.dfm,C:\applic\SSOAP\RandD_2012\source version 2A\InfoForm.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
